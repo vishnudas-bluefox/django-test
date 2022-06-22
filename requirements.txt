@@ -117,7 +117,7 @@ nest-asyncio==1.5.1
 netifaces==0.10.4
 notebook==6.4.3
 numexpr==2.7.1
-numpy==1.19.5
+numpy==1.22.0
 oauthlib==3.1.0
 olefile==0.46
 openpyxl==3.0.3
